@@ -4,14 +4,12 @@
 
 **Mike MacDonagh**
 
-- [Profile](https://github.com/MechMadHog "Mike MacDonagh")
-- [Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike! from MySiteDotCom")
-- [Website](https://mechmadhog.com "This Websites")
-- [Website](https://michaelmacdonagh.net "Visit My Other Test Sites")
-- [Website](https://michaelmacdonagh.ie "Visit My Other Test Sites")
+- [My GitHub Profile](https://github.com/MechMadHog "Mike MacDonagh")
+- [Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike! from MySiteDotCom")
+- [Visit my Dot NET site](https://michaelmacdonagh.net "Visit My Other Test Sites")
+- [Visit my Dot IE site](https://michaelmacdonagh.ie "Visit My Other Test Sites")
 
-
-Please Feel Free to Contact Me On Any Of The Following Platforms:
+> Please Feel Free to Contact Me On Any Of The Following Platforms:
 
 ### Twitter:
 https://twitter.com/MechMadHog
