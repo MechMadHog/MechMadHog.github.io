@@ -5,17 +5,16 @@
 **Mike MacDonagh**
 
 - [My GitHub Profile](https://github.com/MechMadHog "Mike MacDonagh")
-- [Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike! from MySiteDotCom")
-- [Visit my Dot NET site](https://michaelmacdonagh.net "Visit My Other Test Sites")
-- [Visit my Dot IE site](https://michaelmacdonagh.ie "Visit My Other Test Sites")
+- [Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike! from Mech Mad Hog Dot Com")
+- [Visit my Other site](https://michaelmacdonagh.net "Visit My Other Test Sites")
 
 > Please Feel Free to Contact Me On Any Of The Following Platforms:
 
-### Twitter:
+### Twitter | X:
 https://twitter.com/MechMadHog
 
 ### LinkedIn:
-https://linkedin.com/in/michael-macdonagh-b8363b35/
+https://linkedin.com/in/michaelmacdonagh/
 
 ### GitHub:
 https://github.com/MechMadHog
