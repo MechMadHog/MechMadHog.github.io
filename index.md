@@ -5,7 +5,9 @@ title: "Welcome"
 
 # Hi, I'm Mike
 
+
 Welcome to my website — built with markdown, styled simply, and served via GitHub Pages.
+
 
 - 🔧 [Projects](/projects)
 - 🧠 [Blog](/blog)
