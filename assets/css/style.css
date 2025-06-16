@@ -1,0 +1,56 @@
+/* Base Styles */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+    background: #fdfdfd;
+    color: #222;
+  }
+  
+  /* Header + Footer */
+  header, footer {
+    background: #111;
+    color: white;
+    padding: 1rem 2rem;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  header a, footer a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+  
+  /* Content */
+  main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  h1, h2, h3 {
+    color: #111;
+    margin-top: 2rem;
+  }
+  
+  a {
+    color: #005f99;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  ul {
+    padding
+  
