@@ -1,13 +1,16 @@
 ---
-layout: page
+layout: home
 title: "Welcome"
 ---
 
 # Hi, I'm Mike
 
+### Email:
+[Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike!")
 
-Welcome to my website — built with markdown, styled simply, and served via GitHub Pages.
-
+<div class="home" style="max-width: 700px; margin: 0 auto; padding: 2rem;">
+  {{ content }}
+</div>
 
 - 🔧 [Projects](/projects)
 - 🧠 [Blog](/blog)
@@ -16,7 +19,3 @@ Welcome to my website — built with markdown, styled simply, and served via Git
 - 🎨 [DeviantArt](https://www.deviantart.com/mechmadhog)
 - 🐙 [GitHub](https://github.com/MechMadHog)
 - 🧑‍💼 [LinkedIn](https://linkedin.com/in/michaelmacdonagh/)
-
-
-### Email:
-[Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike!")

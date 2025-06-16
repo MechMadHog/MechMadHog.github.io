@@ -2,6 +2,4 @@ title: "Mike Mac Donagh"
 description: "Portfolio and devlog by Mech Mad Hog"
 baseurl: "" # leave empty for GitHub Pages with custom domain
 url: "https://mechmadhog.com"
-theme: minima
-plugins:
-  - jekyll-feed
+

@@ -2,14 +2,36 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #fefefe;
+      color: #222;
+    }
+    header, footer {
+      padding: 1rem 2rem;
+      background: #111;
+      color: #fff;
+    }
+    header a {
+      color: #fff;
+      text-decoration: none;
+    }
+    main {
+      padding: 2rem;
+    }
+  </style>
 </head>
 <body>
   <header>
-    <a href="/"><img src="/assets/images/logo.png" style="height:40px;"></a>
-    <h1>{{ site.title }}</h1>
+    <h1><a href="/">{{ site.title }}</a></h1>
   </header>
 
   <main>
@@ -17,7 +39,8 @@
   </main>
 
   <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }} | mechmadhog.com</p>
   </footer>
 </body>
 </html>
+
