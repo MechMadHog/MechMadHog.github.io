@@ -14,6 +14,8 @@ body {
     color: white;
     padding: 1rem 2rem;
   }
+
+
   
   header h1 {
     margin: 0;
@@ -25,10 +27,15 @@ body {
     text-decoration: none;
   }
   
+
   footer {
-    font-size: 0.9rem;
+    background: #111;
+    color: #fff;
+    padding: 1rem;
     text-align: center;
+    font-size: 0.9rem;
   }
+
   
   /* Content */
   main {
@@ -61,12 +68,6 @@ html, body {
     padding: 0;
   }
   
-  .site-container {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
-  
   main {
     flex: 1; /* This pushes the footer down */
   }
@@ -75,11 +76,26 @@ html, body {
     max-height: 40px;
   }
   
-  footer {
-    background: #111;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
-    font-size: 0.9rem;
+
+  /* === Layout === */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
   }
   
+  .site-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1;
+    padding: 2rem;
+    max-width: 1000px;  /* <-- Increased from 700px */
+    margin: 0 auto;
+  }
+  
+  /* === Header & Footer === */
+
