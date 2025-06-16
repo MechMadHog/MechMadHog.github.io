@@ -54,3 +54,32 @@ body {
   ul {
     padding
   
+/* Sticky Footer Layout */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .site-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1; /* This pushes the footer down */
+  }
+  
+  header img {
+    max-height: 40px;
+  }
+  
+  footer {
+    background: #111;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+  }
+  
