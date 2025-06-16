@@ -1,23 +1,36 @@
-# MechMadHog.com
+# Mike Mac Donagh's Personal Site
 
-> Website Coming Soon...
+This is the source code for my personal website, [mechmadhog.com](https://mechmadhog.com), built using:
 
-**Mike MacDonagh**
+- **Jekyll** (a static site generator)
+- **GitHub Pages** (for free hosting)
+- **Markdown** (for writing all content)
+- **minima** theme (clean, minimal styling)
 
-- [My GitHub Profile](https://github.com/MechMadHog "Mike MacDonagh")
-- [Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike! from Mech Mad Hog Dot Com")
-- [Visit my Other site](https://michaelmacdonagh.net "Visit My Other Test Sites")
+---
 
-> Please Feel Free to Contact Me On Any Of The Following Platforms:
+## 🧠 What’s Here
 
-### Twitter | X:
-https://twitter.com/MechMadHog
+- Personal blog / devlog
+- Portfolio of projects
+- Contact and social media links
+- Logo and favicon
+- Fully static, no JavaScript frameworks
 
-### LinkedIn:
-https://linkedin.com/in/michaelmacdonagh/
+---
 
-### GitHub:
-https://github.com/MechMadHog
+## 🚀 Run Locally
 
+To view or edit this site locally:
 
-© Michael MacDonagh | All rights reserved.
+```bash
+# 1. Clone the repository
+git clone https://github.com/MechMadHog/MechMadHog.github.io.git
+cd MechMadHog.github.io
+
+# 2. Install Jekyll (if you haven’t already)
+gem install bundler jekyll
+
+# 3. Serve the site locally
+bundle install
+bundle exec jekyll serve
