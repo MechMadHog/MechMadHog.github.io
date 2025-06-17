@@ -1,21 +1,17 @@
 ---
-layout: home
-title: "Welcome"
+layout: default
+title: About
 ---
 
-# Hi, I'm Mike
+<div class="text-center">
+  <h1 class="display-4">About Me</h1>
+  <p class="lead">I'm Mike, a developer, designer, and creator of Mech Mad Hog.</p>
+  <a class="btn btn-primary" href="/projects">View My Projects</a>
+</div>
+
 
 ### Email:
 [Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike!")
 
-<div class="home" style="max-width: 700px; margin: 0 auto; padding: 2rem;">
-  {{ content }}
-</div>
 
-- 🔧 [Projects](/projects)
 - 🧠 [Blog](/blog)
-- 📷 [Instagram](https://www.instagram.com/mechanicalmadhog/)
-- 🐦 [X (Twitter)](https://twitter.com/MechMadHog)
-- 🎨 [DeviantArt](https://www.deviantart.com/mechmadhog)
-- 🐙 [GitHub](https://github.com/MechMadHog)
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/michaelmacdonagh/)
