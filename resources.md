@@ -6,7 +6,7 @@ permalink: /resources/
 
 # Resources
 
-A curated collection of tools, links, and references I personally use or recommend.
+A curated collection of tools, links, and references I personally use or would recommend.
 
 Whether you're a developer, designer, creative, or curious learner, you'll find something useful here — from software and learning platforms to productivity hacks and design assets.
 
@@ -18,4 +18,3 @@ Whether you're a developer, designer, creative, or curious learner, you'll find 
 - 🌐 **Online Services** – Hosting, version control, deployment platforms  
 
 _This page is always evolving — I’ll keep adding to it over time._
-
