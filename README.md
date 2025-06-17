@@ -1,18 +1,18 @@
-# Mike Mac Donagh's Personal Site
+# My Personal Site
 
 This is the source code for my personal website, [mechmadhog.com](https://mechmadhog.com), built using:
 
 - **Jekyll** (a static site generator)
 - **GitHub Pages** (for free hosting)
 - **Markdown** (for writing all content)
-- **minima** theme (clean, minimal styling)
+- **custom** theme (clean, minimal styling)
 
 ---
 
 ## 🧠 What’s Here
 
-- Personal blog / devlog
-- Portfolio of projects
+- Personal blog / About Me
+- Possible Portfolio of projects
 - Contact and social media links
 - Logo and favicon
 - Fully static, no JavaScript frameworks
