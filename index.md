@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Welcome To My Website
 ---
 
 <div class="text-center">
