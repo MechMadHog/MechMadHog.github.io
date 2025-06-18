@@ -1,2 +1,6 @@
 /* style.css */
 /* intentionally left blank — Bootstrap handles everything now */
+main > .container {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
