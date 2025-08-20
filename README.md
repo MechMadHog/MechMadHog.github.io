@@ -1,3 +1,9 @@
+
+---
+
+### 📌 **For mechmadhog.com (Personal / Creative Site)**
+
+```markdown
 # My Personal Site
 
 This is the source code for my personal website, [mechmadhog.com](https://mechmadhog.com), built using:
@@ -5,17 +11,17 @@ This is the source code for my personal website, [mechmadhog.com](https://mechma
 - **Jekyll** (a static site generator)
 - **GitHub Pages** (for free hosting)
 - **Markdown** (for writing all content)
-- **custom** theme (clean, minimal styling)
+- **custom** theme (clean, experimental styling)
 
 ---
 
 ## 🧠 What’s Here
 
 - Personal blog / About Me
-- Possible Portfolio of projects
-- Contact and social media links
-- Logo and favicon
-- Fully static, no JavaScript frameworks
+- Experiments, notes, and odd projects
+- Logo, favicon, and branding
+- Possible portfolio in progress
+- Fully static, no heavy JavaScript frameworks
 
 ---
 
